@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: a5a96ca7-3785-bed6-3324-a796fe1914b8
 resourcetype: Document
 title: 'Basic Statistics and Human Genetics: A Swift ''Perspective"'
 uid: d1d413af-8169-ddd4-f94d-f34cb88640bf

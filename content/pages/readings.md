@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides details on the required text and the reading assignments
+  by session and topic.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: a5a96ca7-3785-bed6-3324-a796fe1914b8
 ---
@@ -290,7 +295,7 @@ Lindon, J. C., E. Holmes, and J. K. Nicholson. "So what's the deal with metabono
 Ethics and Responsible Conduct of Research
 {{< tdclose >}}
 {{< tdopen >}}
-Ethics questions ([PDF]({{< baseurl >}}/resources/questions))  
+Ethics questions ({{% resource_link 16a75f77-6eba-95e5-e254-73c4b059ffef "PDF" %}})  
   
 Martinson, B. C., M. S. Anderson, and R. de Vries. "Scientists behaving badly." _Nature_ 435, no. 7043 (June 9, 2005): 737-8.  
   

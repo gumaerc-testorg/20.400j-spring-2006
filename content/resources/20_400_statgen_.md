@@ -5,6 +5,7 @@ file: /courses/20-400j-perspectives-in-biological-engineering-spring-2006/d1d413
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Basic Statistics and Human Genetics: A Swift ''Perspective"'
 uid: d1d413af-8169-ddd4-f94d-f34cb88640bf
 ---
 Lecture presentation on basic statistics and human genetics.
-

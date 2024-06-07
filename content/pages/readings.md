@@ -177,7 +177,7 @@ Sachs, K., O. Perez, D. Pe'er, D. A. Lauffenburger, and G. P. Nolan. "Causal pro
   
 Eddy, S. R. "What is Bayesian statistics?" _Nat Biotechnol_ 22, no. 9 (September 2004): 1177-8.  
   
-{{% resource_link "6b1e3395-4d02-44f1-9d4a-c8f8f0ea6a5e" "Online tutorial on Bayesian networks" %}}.
+[Online tutorial on Bayesian networks](http://www.cs.ubc.ca/~murphyk/Bayes/bnintro.html).
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -213,7 +213,7 @@ Glish, G. L., R. W. Vachet. "The basics of mass spectrometry in the twenty-first
   
 Bhat, V. B., M. H. Choi, J. S. Wishnok, and S. R. Tannenbaum. "Comparative plasma proteome analysis of lymphoma-bearing SJL mice." _J Proteome Res_ 4, no. 5 (September-October, 2005): 1814-25.  
   
-{{% resource_link "d88b8fae-a4a1-467e-9471-9ff1dfca5b50" "Mass spec website on peptide fragmentation" %}}.
+[Mass spec website on peptide fragmentation](http://www.matrixscience.com/help/fragmentation_help.html).
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -319,13 +319,13 @@ Deichmann, U., and B. Muller-Hill. "The fraud of Abderhalden's enzymes." _Nature
 Ethics and Responsible Conduct of Research (cont.)
 {{< tdclose >}}
 {{< tdopen >}}
-Bonetta, Laura, ed. "Mentoring and Being Mentored." Chapter 5 in {{% resource_link "0cfcd45e-e7f9-4f00-a090-f2b6d8599fd7" "_Making the Right Moves: A Practical Guide to Scientific Management for Postdocs and New Faculty_" %}}. Chevy Chase, Maryland: Howard Hughes Medical Institute and Research; Triangle Park, North Carolina: Burroughs Wellcome Fund, 2004.  
+Bonetta, Laura, ed. "Mentoring and Being Mentored." Chapter 5 in [_Making the Right Moves: A Practical Guide to Scientific Management for Postdocs and New Faculty_](http://www.hhmi.org/resources/labmanagement/). Chevy Chase, Maryland: Howard Hughes Medical Institute and Research; Triangle Park, North Carolina: Burroughs Wellcome Fund, 2004.  
   
-Editors of the Publications Division of the American Chemical Society. "{{% resource_link "b76bfa7f-740e-408d-a556-587fa42ba8ad" "_Ethical Guidelines to Publication of Chemical Research_" %}}." American Chemical Society (January, 2000).  
+Editors of the Publications Division of the American Chemical Society. "[_Ethical Guidelines to Publication of Chemical Research_](http://pubs.acs.org/instruct/ethic.html)." American Chemical Society (January, 2000).  
   
-Important Questions for Collaborations. {{% resource_link "a3a3f040-9eda-440d-af5f-b8eca93af64e" "_Template developed by the NIH Ombudsman for establishing collaborations_" %}}.  
+Important Questions for Collaborations. [_Template developed by the NIH Ombudsman for establishing collaborations_](https://ethics.od.nih.gov/).  
   
-Publication practices, authorship, peer-review, and collaborations. {{% resource_link "a3a3f040-9eda-440d-af5f-b8eca93af64e" "_NIH Web site on Ethical Conduct_" %}}.
+Publication practices, authorship, peer-review, and collaborations. [_NIH Web site on Ethical Conduct_](https://ethics.od.nih.gov/).
 {{< tdclose >}}
 
 {{< trclose >}}

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Questions for consideration when reading papers on ethics.
-file: /ol-ocw-studio-app/courses/20-400j-perspectives-in-biological-engineering-spring-2006/16a75f776eba95e5e25473c4b059ffef_questions.pdf
+file: /courses/20-400j-perspectives-in-biological-engineering-spring-2006/16a75f776eba95e5e25473c4b059ffef_questions.pdf
 file_size: 10687
 file_type: application/pdf
 learning_resource_types:
